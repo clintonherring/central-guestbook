@@ -25,4 +25,3 @@ interacting with this repo.
 - [agentic-dev-bootstrap-android](https://github.com/clintonherring/agentic-dev-bootstrap-android) (public)
 - [smma-videos](https://github.com/clintonherring/smma-videos) (public)
 - [job-post-resume-writer](https://github.com/clintonherring/job-post-resume-writer) (public)
-- ***REMOVED*** (private, shared)
